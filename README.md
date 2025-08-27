@@ -13,7 +13,12 @@ End-to-end fraud detection on transactional data:
 - **FastAPI** endpoint for JSON scoring
 - Notebook for experiments
 ---
-📂 Structure
+## 📂 Data
+- Full dataset is large (>25MB) and not uploaded.
+- A sample (`data/Fraud_sample.csv`) is provided for demo purposes.
+- Replace with your full dataset locally when training.
+---
+## 📂 Structure
 ```yaml
 fraud-detection-pipeline/
 ├─ notebooks/
