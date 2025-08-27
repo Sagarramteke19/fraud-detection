@@ -48,3 +48,4 @@ streamlit run src/streamlit_app.py
 
 # FastAPI (local)
 uvicorn src.app:app --reload
+---
