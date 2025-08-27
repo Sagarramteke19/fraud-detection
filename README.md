@@ -22,9 +22,9 @@ End-to-end fraud detection on transactional data:
 ```yaml
 fraud-detection-pipeline/
 ├─ notebooks/
-│  └─ fraud_detection.ipynb          # your notebook (keep as-is)
+│  └─ fraud_detection.ipynb        
 ├─ data/
-│  └─ Fraud.csv                      # your dataset (keep as-is)
+│  └─ Fraud.csv                     
 ├─ src/
 │  ├─ train.py                       # TRAIN: reads CSV, trains, exports model + plots
 │  ├─ utils.py                       # schema, load/save helpers, threshold tuning
@@ -33,7 +33,7 @@ fraud-detection-pipeline/
 ├─ results/
 │  └─ (created at runtime: model.joblib, metrics.json, plots)
 ├─ docs/
-│  └─ DATA_DICTIONARY.md             # (fill from your txt)
+│  └─ DATA_DICTIONARY.md            
 ├─ requirements.txt
 ├─ .gitignore
 ├─ LICENSE
