@@ -54,3 +54,19 @@ streamlit run src/streamlit_app.py
 # FastAPI (local)
 uvicorn src.app:app --reload
 ---
+
+```
+## 📊 Visualizations
+
+### Confusion Matrix
+![Confusion Matrix](./results/confusion_matrix.png)
+
+### ROC Curve
+![ROC Curve](./results/roc_curve.png)
+
+### Precision-Recall Curve
+![PR Curve](./results/pr_curve.png)
+
+### Feature Importance (XGBoost)
+![Feature Importance](./results/feature_importance.png)
+
