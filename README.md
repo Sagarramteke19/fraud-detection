@@ -62,11 +62,11 @@ uvicorn src.app:app --reload
 ![Confusion Matrix](./results/confusion_matrix.png)
 
 ### ROC Curve
-![ROC Curve](./results/roc_curve.png)
+![ROC Curve](./results/ROC.png)
 
 ### Precision-Recall Curve
-![PR Curve](./results/pr_curve.png)
+![PR Curve](./results/precision_recall.png)
 
 ### Feature Importance (XGBoost)
-![Feature Importance](./results/feature_importance.png)
+![Feature Importance](./results/Feature_Importance_(XGBoost).png)
 
