@@ -1,0 +1,22 @@
+# Core
+pandas
+numpy
+scikit-learn
+
+# Modeling
+xgboost
+imbalanced-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Apps
+streamlit
+fastapi
+uvicorn
+
+# Optional (but useful for notebooks & experiments)
+jupyter
+notebook
